@@ -10,7 +10,7 @@
 - 📫 How to reach me **Hoss#0434**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left">Discord: Hoss#0434
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
