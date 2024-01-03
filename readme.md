@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **Hoss#0434**
 
+- 🍣 Fun Fact **I like fish.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
