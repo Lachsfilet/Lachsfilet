@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lachsfilet</h1>
-<h3 align="center">A full-stack developer from Germany & proud JetBrains user.</h3>
+<h3 align="center">A full-stack developer from Germany & proud Angular user.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lachsfilet&label=Viewers&color=640fb4&style=flat-square" alt="lachsfilet" /> </p>
 
