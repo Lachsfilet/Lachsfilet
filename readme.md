@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lachsfilet&label=Viewers&color=640fb4&style=flat-square" alt="lachsfilet" /> </p>
 
-- 🔭 I’m currently working on **Coffee Time (a chatapp)**
+- 🔭 I’m currently working on **Myself**
 
-- 🌱 I’m currently learning **Backend: Django, Express, SQL**
+- 🌱 I’m currently learning **Nest.JS, Production Builds**
 
-- 💬 Ask me about **Angular, HTML, CSS, Javascript, "Python"**
+- 💬 Ask me about **Angular, HTML, CSS, Javascript, Typescript, Python**
 
 - 📫 How to reach me **Hoss#0434**
 
