@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Lachsfilet</h1>
+<h1 align="center">Hi 👋, I'm Fynn Berger (Lachsfilet)</h1>
 <h3 align="center">A full-stack developer from Germany.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lachsfilet&label=Viewers&color=640fb4&style=flat-square" alt="lachsfilet" /> </p>
 
 - 🔭 I’m currently working on **Myself**
 
-- 🌱 I’m currently learning **Nest.JS, Production Builds**
+- 🌱 I’m currently learning **Next.js Production Builds**
 
-- 💬 Ask me about **Angular, HTML, CSS, Javascript, Typescript, Python**
+- 💬 Ask me about **Angular, Nest.JS, HTML, CSS, Javascript, Typescript, Python**
 
-- 📫 How to reach me **Hoss#0434**
+- 📫 How to reach me **hoss.cum on Discord && lachsfilet.coder@gmail.com**
 
 - 🍣 Fun Fact **I like fish.**
 
